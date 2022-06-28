@@ -240,13 +240,12 @@ h4 {
     gap: 3.2rem;
 
     text-align: left;
-    padding-top: 13.75rem;
     padding-bottom: 11.9rem;
   }
 
   #section-header img {
-    width: 60rem;
-    margin-top: 12.1rem;
+    width: 50rem;
+    padding-bottom: 11.9rem;
     margin-bottom: 8.8rem;
     margin-left: auto;
   }
@@ -267,7 +266,7 @@ h4 {
   }
 
   #section-cards .card {
-    width: 34rem;
+    max-width: 30rem;
   }
 
   #contact .form {
