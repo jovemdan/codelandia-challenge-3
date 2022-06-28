@@ -232,6 +232,10 @@ h4 {
     margin-inline: auto;
   }
 
+  #section-header {
+    height: 56rem;
+  }
+
   #section-header .content-title {
     width: 43.9rem;
     display: flex;
